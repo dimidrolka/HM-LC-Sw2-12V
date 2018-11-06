@@ -6,7 +6,7 @@
 * 1x CC1101 Funkmodul **(868 MHz)**
 * 1x FTDI Adapter (wird nur zum Flashen benötigt)
 
-* 1x https://www.reichelt.de/my/?????
+* 1x https://www.reichelt.de/my/1521309
 
 **ACHTUNG: ja nach Hersteller der Arduinos kann die maximale Eingangsspannung variieren. (Siehe Datenblatt) Falls keins vorhanden ist, maximale Spannung an VCC 8,5V!**
 
