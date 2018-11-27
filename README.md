@@ -10,6 +10,10 @@
 
 **ACHTUNG: ja nach Hersteller der Arduinos kann die maximale Eingangsspannung variieren. (Siehe Datenblatt) Falls keins vorhanden ist, maximale Spannung an VCC 8,5V!**
 
+[Kontakt via Facebook](https://www.facebook.com/ronny.thomas.83)
+
+[Software je nach Projekt](https://github.com/jp112sdl/Beispiel_AskSinPP/blob/master/examples/HM-LC-Sw2-FM/HM-LC-Sw2-FM.ino) von Jérôme
+
 [Software je nach Projekt](https://github.com/jp112sdl) von Jérôme
 
 ![complete](Images/HM-LC-Sw2_1.jpg)
